@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name_mingxing">略懂.明星</string>
+    <string name="app_name_dongman">略懂.动漫</string>
+    <string name="app_name_yingshi">略懂.影视</string>
+    <string name="app_name_qinggan">略懂.情感</string>
+    <string name="app_name_youxi">略懂.游戏</string>
+    <string name="app_name_xiaoshuo">略懂.小说</string>
+    <string name="app_name_tiyu">略懂.体育</string>
+
+</resources>
